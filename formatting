@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Document</title>
+    <link rel="styleSheet" herf="style.css">
+    <script src="first.js" type="text/javascripy"></script>
+</head>
+<body>
+    <!--use of different tag-->
+    <p>heading tag</p>
+   <h1>this is heading one</h1> 
+   <h2>this is heading two</h2>
+   <h3>this is heading 3</h3>
+   <h4>this is heding 4</h4>
+   <h5>this <i>is</i> <em> heading</em>    5</h5>
+   <h6>this is heading 6</h6>
+   <p>paragraph tag and formatting tag</p>
+   <p>this <small>a</small>is paragraph tag</p>
+   <p id ="para1"> this is a paragraph</p>
+   <p>this is paragraph3</p>
+   <p><b>hii</b> <b><i>hello</i></b></p>
+   <p>image tag</p>
+   <img src="https://en.wikipedia.org/wiki/File:Flower_july_2011-2_1_cropped.jpg" alt="waterfall img" height="50" width="50" >
+<p id="para2">this is a baic example of html elements</p>
+<p>style tag</p>
+<style>
+    #para2{
+background-color: aqua;
+color :blueviolet;
+    }
+
+</style>
+<p>Lorem ipsum dolor sit amet consectetur <mark>elit</mark>. Eveniet quibusdam ,<del> facilis</del> voluptatem, nihil ut fugit, minus sequi rerum ab, unde doloribus corporis <strike>  magnam eius</strike> nesciunt eum accusamus at aliquam porro.</p>
+<p><i>hii</i> <em><u> hello </u></em></p>
+<p title="hii hello"><b>hii</b> <strong>hello</strong></p>
+<p>Lorem ipsum dolor, sit amet consectetur  adipisicing elit. Quasi aspernatur ipsa aliquid, quisquam nemo itaque harum odit? Eius tempore sint quibusdam obcaecati, voluptatum aliquam officiis <font size ="4" colour="red"> adipisicing elit</font> repellendus soluta numquam maiores repellat?</p>
+<abbr title="github">git</abbr>
+<address>
+    youtube office,
+    123 street,sector-456,
+    noid,india
+</address>
+<q>youtube</q><br>
+ <code>
+    System.out.println("hello");
+ </code>
+</bod y>
+</html>
